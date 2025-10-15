@@ -26,7 +26,7 @@
 
 # The core research question guiding this analysis is:
 
-# > \[cite\_start]"What are the statistically significant Spatio-temporal patterns of crime in London between 2008-2016, and how do crime rates differ across boroughs and crime categories?" 
+# > \[cite\_start]"What are the statistically significant Spatio-temporal patterns of crime in London between 2008-2016, and how do crime rates differ across boroughs and crime categories?"
 
 # 
 
@@ -34,7 +34,7 @@
 
 # 
 
-# \[cite\_start]The analysis uses the "London Crime Data, 2008-2016" dataset, publicly available on Kaggle.  \[cite\_start]It contains approximately 13 million crime records. 
+# \[cite\_start]The analysis uses the "London Crime Data, 2008-2016" dataset, publicly available on Kaggle.  \[cite\_start]It contains approximately 13 million crime records.
 
 # 
 
@@ -52,11 +52,11 @@
 
 # 
 
-# \* \[cite\_start]\*\*Tools:\*\* Python 3.x (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook. 
+# \* \[cite\_start]\*\*Tools:\*\* Python 3.x (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook.
 
-# \* \[cite\_start]\*\*Statistical Methods:\*\* Descriptive statistics, Chi-square tests, ANOVA, t-tests, correlation analysis, and time-series analysis. 
+# \* \[cite\_start]\*\*Statistical Methods:\*\* Descriptive statistics, Chi-square tests, ANOVA, t-tests, correlation analysis, and time-series analysis.
 
-# \* \[cite\_start]\*\*Significance Level:\*\* α = 0.05 for all hypothesis tests. 
+# \* \[cite\_start]\*\*Significance Level:\*\* α = 0.05 for all hypothesis tests.
 
 # 
 
@@ -77,4 +77,12 @@
 # 
 
 # ---
+
+
+
+
+
+
+
+
 
